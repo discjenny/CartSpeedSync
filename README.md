@@ -6,6 +6,8 @@ A quality-of-life mod for R.E.P.O. that improves shopping cart handling when spr
 
 - Makes shopping carts match your sprint speed when pushing strongly
 - Improves cart positioning and turning behavior during sprints
+- **Adjusted follow distances** for both regular and small carts for a better feel
+- **Specifically tuned handling** for small carts during sprint turns
 - Maintains smooth cart movement without physics glitches
 - Works in both single player and multiplayer
 

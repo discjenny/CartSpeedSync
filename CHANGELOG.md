@@ -2,7 +2,13 @@
 
 All notable changes to CartSpeedSync will be documented in this file.
 
-## [1.0.0] - 2024-03-31
+## [1.1.0] - 2025-04-01
+
+### Changed
+- Adjusted cart follow distance when sprinting to better match base game behaviour.
+- Tuned physics (force, rotation) specifically for small carts to improve handling during sprinting turns.
+
+## [1.0.0] - 2025-03-31
 
 ### Added
 - Initial release
