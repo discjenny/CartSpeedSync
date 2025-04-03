@@ -2,6 +2,14 @@
 
 All notable changes to CartSpeedSync will be documented in this file.
 
+## [2.0.0] - 2025-04-02
+
+### Changed
+- Refactored core logic to more closely replicate base game cart steering mechanics while sprinting.
+- Ensured cart speed matches player speed during sprints to prevent bumping, integrating with base game logic.
+- Increased responsiveness during sprint turns by adjusting base game velocity/rotation limits.
+- Minimized physics glitches by moving away from direct force application and using base game's velocity manipulation.
+
 ## [1.1.0] - 2025-04-01
 
 ### Changed
